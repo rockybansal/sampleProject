@@ -1,1 +1,1 @@
-# sampleProjject
+# Sample project
